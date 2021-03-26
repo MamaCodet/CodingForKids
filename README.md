@@ -4,5 +4,9 @@ Unser Leben ist ohne digitale Medien kaum noch vorstellbar und immer mehr Bereic
 Es gibt heute viele Ansätze, die einen altersgerechten Einstieg in die digitale Welt bieten. Bereits Vierjährige lassen sich spielerisch an das Thema heranführen, und je älter die Kinder werden, desto mehr Möglichkeiten haben sie, sich mit Technik auseinanderzusetzen - sei es Robotik, Elektronik oder Programmierung. 
 In welchem Alter sind welche Technologien und Hilfsmittel sind geeignet, um in das Thema reinzukommen? Einige davon werden in der Präsentation vorgestellt.
 
+Videos:
+Jumbo - Ich lerne programmieen: https://www.youtube.com/watch?v=dUdxlHZopds
+Makey Makey: https://www.youtube.com/watch?v=mtW-98ej94s
+
 #### #BeeBot #CSUnplugged #Ozobot #ScratchJr #LegoBoost #CalliopeMini #Scratch #MakeyMakey #MITAppInventor #OpenRoberta
 ## < 👩‍🚀 ~ 🤖 ~ 👾 ~ 😺 ~ 🦀 ~ 🐞 ~ 🎮 ~ 🚀 ~ 💻 ~ 🖱 >
