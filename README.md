@@ -5,4 +5,4 @@ Es gibt heute viele Ansätze, die einen altersgerechten Einstieg in die digitale
 In welchem Alter sind welche Technologien und Hilfsmittel sind geeignet, um in das Thema reinzukommen? Einige davon werden in der Präsentation vorgestellt.
 
 #### #BeeBot #CSUnplugged #Ozobot #ScratchJr #LegoBoost #CalliopeMini #Scratch #MakeyMakey #MITAppInventor #OpenRoberta
-## 👩‍🚀🤖👾😺🦀🐞🎮🚀💻🖱
+## 👩‍🚀 ~ 🤖 ~ 👾 ~ 😺 ~ 🦀 ~ 🐞 ~ 🎮 ~ 🚀 ~ 💻 ~ 🖱
